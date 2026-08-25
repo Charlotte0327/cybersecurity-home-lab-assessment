@@ -28,7 +28,7 @@ Basic TCP port scan against the target. Established the initial Attack surface.
 
 Expanded initial port scan to services outside the default Nmap range.
 
-### `nmap -sT'
+### `nmap -sT`
 
 TCP connect scan used to verify port accessibility. 
 

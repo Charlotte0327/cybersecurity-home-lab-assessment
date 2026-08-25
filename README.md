@@ -27,3 +27,7 @@ Hands-on cybersecurity vulnerability assessment lab using isolated Ubuntu virtua
 ## Report
 
 [View the Full Assessment](report/Cybersecurity-Lab-Report.pdf)
+
+## Disclaimer 
+
+This assessment was conducted entirely within an isolated virtual laboratory environment using systems created for educational purposes. No testing was performed against public or third-party systems. 

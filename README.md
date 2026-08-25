@@ -24,6 +24,15 @@ Hands-on cybersecurity vulnerability assessment lab using isolated Ubuntu virtua
  - Python HTTP server
  - Linux security tools
 
+## Lab Architecture
+
+![Lab Architecture](evidence/network-architecture.png)
+
+## Evidence 
+
+ - [VM Configuration](evidence/vm-configuration.png)
+ - [Remediation Verification](evidence/remediation-verification.png)
+
 ## Report
 
 [View the Full Assessment](report/Cybersecurity-Lab-Report.pdf)

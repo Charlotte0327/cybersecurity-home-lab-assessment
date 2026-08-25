@@ -10,4 +10,4 @@ Hands-on cybersecurity reconnaissance lab using isolated virtual machines, Linux
 
 ## Report
 
-[View the Full Assessment](report/CybersecurityHome_Lab_Assessment.pdf)
+[View the Full Assessment](report/Cybersecurity-Lab-Report.pdf)
